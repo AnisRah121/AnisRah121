@@ -12,8 +12,6 @@ Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** Anis Java Developer
 - ⚡ **Fun fact:** I enjoy solving DSA problems and building real-world applications 🚀
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
