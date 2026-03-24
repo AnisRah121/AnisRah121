@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**Full Stack Applications using Spring Boot, React.js & PostgreSQL
+- 🔭 I’m currently working on:Full Stack Applications using Spring Boot, React.js & PostgreSQL
 - 🌱 **I’m currently learning:** Advanced Spring Boot, Microservices & System Design
 - 👯 **I’m looking to collaborate on:** Java Full Stack Projects & Open Source Contributions
 - 🤔 **I’m looking for help with:** Backend Architecture & Scalable Applications
