@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anyt
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-rahman2003/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Anis_Rahma_n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexanis120@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-rahman2003/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AnisCodex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexanis120@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
@@ -142,7 +142,7 @@ Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anyt
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnisRah121&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AnisCodex&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
