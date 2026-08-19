@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anyt
 - 👯 **I’m looking to collaborate on:** Java Full Stack Projects & Open Source Contributions
 - 🤔 **I’m looking for help with:** Backend Architecture & Scalable Applications
 - 💬 **Ask me about:** Java, Spring Boot, React.js, REST APIs, DSA
-- 📫 **How to reach me:** alexanis120@gmail.com
+- 📫 **How to reach me:** rahmananis2k25@gmail.com
 - 😄 **Pronouns:** Anis Java Developer
 - ⚡ **Fun fact:** I enjoy solving DSA problems and building real-world applications 🚀
 
