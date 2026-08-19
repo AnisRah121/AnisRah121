@@ -1,7 +1,7 @@
 # 💫 Hi 👋,I'm Anis - Exploring Java..!
 **A passionate Java Full Stack Developer || Spring Boot Developer || React Developer from India**
 
-Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rahmananis2k25@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 I’m currently working on:Full Stack Applications using Spring Boot, React.js & PostgreSQL
 - 🌱 **I’m currently learning:** Advanced Spring Boot, Microservices & System Design
